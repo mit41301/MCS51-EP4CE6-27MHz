@@ -1,0 +1,20 @@
+
+set_location_assignment PIN_24 -to clk50
+
+set_location_assignment PIN_34 -to LED[0]
+set_location_assignment PIN_32 -to LED[1]
+set_location_assignment PIN_30 -to LED[2]
+set_location_assignment PIN_76 -to LED[3]
+set_location_assignment PIN_77 -to LED[4]
+set_location_assignment PIN_85 -to LED[5]
+set_location_assignment PIN_98 -to LED[6]
+set_location_assignment PIN_100 -to LED[7]
+
+set_location_assignment PIN_10 -to Tx
+set_location_assignment PIN_23 -to Rx
+
+set_location_assignment PIN_106 -to SCL
+set_location_assignment PIN_104 -to SDA
+
+set_location_assignment PIN_88 -to SW1
+
